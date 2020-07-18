@@ -1,5 +1,3 @@
-
-
 var score, roundScore, activePlayer,six
 let name=localStorage.getItem('name').split(',')
 
